@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754241561935",
+    "project_id": "minimalistwallpaperapp",
+    "storage_bucket": "minimalistwallpaperapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754241561935:android:662f432b8e2baf5aba113a",
+        "android_client_info": {
+          "package_name": "com.example.minimalist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754241561935-4o6gdkf2h7qjlvq227tgaets5vmgcf7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXoRTatHJkl9ZU8viweM0b2ioRDv5di0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754241561935-4o6gdkf2h7qjlvq227tgaets5vmgcf7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
